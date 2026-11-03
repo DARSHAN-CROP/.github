@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Darshankumar Savsani</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b1e3a,100:f7b500&height=220&section=header&text=Darshankumar%20Savsani&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Diploma%20CE%20%E2%80%A2%20Builder%20%E2%80%A2%20Darshan%20Corporation&descAlignY=58&descSize=18" width="100%" alt="header">
+</p>
+
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34" alt="wave">, I'm Darshankumar</h1>
 <h3 align="center">Diploma Computer Engineering student · Builder of useful tools · Founder of <b>Darshan Corporation</b></h3>
 
 <p align="center">
@@ -22,6 +26,9 @@
 | [**Darshan File Manager for Android**](https://github.com/1darshankumarsavsani-blip/Darshan-File-Manager-Android) | Keeps your phone's Download folder clean, with background Auto mode | Java · Android |
 
 ### 🧰 Languages & tools
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,java,python,dotnet,html,css,androidstudio,git,github,vscode&perline=10" alt="skills"></a>
+</p>
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -35,8 +42,24 @@
 
 ### 📊 GitHub stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1darshankumarsavsani-blip&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="165" src="https://streak-stats.demolab.com?user=1darshankumarsavsani-blip&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img src="https://raw.githubusercontent.com/1darshankumarsavsani-blip/1darshankumarsavsani-blip/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/1darshankumarsavsani-blip/1darshankumarsavsani-blip/main/profile-summary-card-output/tokyonight/3-stats.svg" height="180" alt="GitHub stats">
+  <img src="https://raw.githubusercontent.com/1darshankumarsavsani-blip/1darshankumarsavsani-blip/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="180" alt="Most commit language">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/1darshankumarsavsani-blip/1darshankumarsavsani-blip/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="180" alt="Repos per language">
+  <img src="https://raw.githubusercontent.com/1darshankumarsavsani-blip/1darshankumarsavsani-blip/main/profile-summary-card-output/tokyonight/4-productive-time.svg" height="180" alt="Productive time">
+</p>
+
+### 🐍 Contribution snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1darshankumarsavsani-blip/1darshankumarsavsani-blip/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1darshankumarsavsani-blip/1darshankumarsavsani-blip/output/github-snake.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/1darshankumarsavsani-blip/1darshankumarsavsani-blip/output/github-snake.svg">
+  </picture>
 </p>
 
 <p align="center">
@@ -45,3 +68,7 @@
 
 ---
 <p align="center"><i>"Build small. Ship often. Keep learning."</i> ⭐ Star a repo if you find it useful!</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b500,100:7b1e3a&height=120&section=footer" width="100%" alt="footer">
+</p>
